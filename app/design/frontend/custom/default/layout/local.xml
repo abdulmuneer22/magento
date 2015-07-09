@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<layout>
+    <default>
+        <reference name="right">
+            
+            <remove name="right.poll"/>
+            <remove name="paypal.partner.right.logo"/> 
+            <remove name="catalog.compare.sidebar"/> 
+            
+        </reference>
+        
+    </default>
+    
+</layout>
